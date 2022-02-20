@@ -1,0 +1,29 @@
+{
+  "name": "Mapa-Interactivo--Investigacion-de-LIC",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C3SC0-V4113/Mapa-Interactivo--Investigacion-de-LIC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C3SC0-V4113/Mapa-Interactivo--Investigacion-de-LIC/issues"
+  },
+  "homepage": "https://github.com/C3SC0-V4113/Mapa-Interactivo--Investigacion-de-LIC#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
